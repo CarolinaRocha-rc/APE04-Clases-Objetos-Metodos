@@ -3,13 +3,21 @@
 
 ## Información Académica
 | **Universidad** | Universidad Técnica de Ambato (UTA) |
+
 | **Facultad** | Ingeniería en Sistemas, Electrónica e Industrial |
+
 | **Carrera** | Software |
+
 | **Asignatura** | Algoritmos y lógica de programación |
+
 | **Docente** | *Ing. José Caizabuano* |
+
 | **Estudiante** | *Rocha Rocha Carolina Estefania* |
-| **Semestre** | Primero "A" |
+
+| **Semestre** | Primero "B" |
+
 | **Período** | 2025 – 2026 |
+
 | **Actividad** | APE 04 – Clases, Objetos y Métodos |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
